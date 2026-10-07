@@ -1,0 +1,513 @@
+itemset,support
+ActiveDays_High,0.3501058509495904
+ActiveDays_Low,0.327033412082349
+ActiveDays_Medium,0.3228607369680606
+Assignment_Early,0.36053753873531125
+Assignment_Late,0.14457092013622558
+Assignment_Missing,0.35602736783972017
+Assignment_OnTime,0.13886417328874298
+Engagement_High,0.3733010155554874
+Engagement_Low,0.3628693277697665
+Engagement_Medium,0.2638296566747461
+Forum_High,0.3343355935323536
+Forum_Low,0.32884361672751816
+Forum_Medium,0.33682078974012825
+Quiz_High,0.33237198171386495
+Quiz_Low,0.4601601570889455
+Quiz_Medium,0.20746786119718957
+Resource_High,0.33292424753781485
+Resource_Low,0.33292424753781485
+Resource_Medium,0.3341515049243703
+Result_Fail,0.2163654772497162
+Result_Pass,0.47203387230386895
+Result_Withdrawn,0.3116006504464149
+"ActiveDays_High, Assignment_Early",0.19206578099591937
+"ActiveDays_High, Assignment_Late",0.052680023317890345
+"ActiveDays_High, Assignment_OnTime",0.06093332924247538
+"ActiveDays_High, Engagement_High",0.30678366520418493
+"ActiveDays_High, Forum_High",0.256650200963397
+"ActiveDays_High, Forum_Medium",0.08366827232841408
+"ActiveDays_High, Quiz_High",0.19479642868100513
+"ActiveDays_High, Quiz_Low",0.057711778602767466
+"ActiveDays_High, Quiz_Medium",0.09759764366581782
+"ActiveDays_High, Resource_High",0.24373331696990153
+"ActiveDays_High, Resource_Medium",0.09551130610867364
+"ActiveDays_High, Result_Fail",0.05111527015003221
+"ActiveDays_High, Result_Pass",0.24186174945540453
+"ActiveDays_High, Result_Withdrawn",0.057128831344153655
+"ActiveDays_Low, Assignment_Missing",0.23400730218145
+"ActiveDays_Low, Engagement_Low",0.30549504494830176
+"ActiveDays_Low, Forum_Low",0.252937747369067
+"ActiveDays_Low, Forum_Medium",0.06970821955634646
+"ActiveDays_Low, Quiz_Low",0.2768079035375694
+"ActiveDays_Low, Resource_Low",0.26631485288252077
+"ActiveDays_Low, Resource_Medium",0.05550271530696775
+"ActiveDays_Low, Result_Fail",0.08170466050992545
+"ActiveDays_Low, Result_Pass",0.06746847482588286
+"ActiveDays_Low, Result_Withdrawn",0.17786027674654067
+"ActiveDays_Medium, Assignment_Early",0.11968827662381493
+"ActiveDays_Medium, Assignment_Late",0.06664007608995796
+"ActiveDays_Medium, Assignment_Missing",0.07759334826496488
+"ActiveDays_Medium, Assignment_OnTime",0.05893903598932286
+"ActiveDays_Medium, Engagement_High",0.06571963305004141
+"ActiveDays_Medium, Engagement_Low",0.057036787040162
+"ActiveDays_Medium, Engagement_Medium",0.2001043168778572
+"ActiveDays_Medium, Forum_High",0.07329794741202099
+"ActiveDays_Medium, Forum_Low",0.06611849170067192
+"ActiveDays_Medium, Forum_Medium",0.18344429785536773
+"ActiveDays_Medium, Quiz_High",0.11296904243242414
+"ActiveDays_Medium, Quiz_Low",0.1256404749486086
+"ActiveDays_Medium, Quiz_Medium",0.08425121958702789
+"ActiveDays_Medium, Resource_High",0.08397508667505292
+"ActiveDays_Medium, Resource_Low",0.05574816678427883
+"ActiveDays_Medium, Resource_Medium",0.18313748350872885
+"ActiveDays_Medium, Result_Fail",0.08354554658975853
+"ActiveDays_Medium, Result_Pass",0.16270364802258153
+"ActiveDays_Medium, Result_Withdrawn",0.07661154235572055
+"Assignment_Early, Engagement_High",0.18961126622280858
+"Assignment_Early, Engagement_Low",0.06786733347651336
+"Assignment_Early, Engagement_Medium",0.10305893903598932
+"Assignment_Early, Forum_High",0.19691344767281319
+"Assignment_Early, Forum_Medium",0.11600650446414874
+"Assignment_Early, Quiz_High",0.11800079771730126
+"Assignment_Early, Quiz_Low",0.1366244285582794
+"Assignment_Early, Quiz_Medium",0.10591231245973062
+"Assignment_Early, Resource_High",0.17546712484275764
+"Assignment_Early, Resource_Low",0.062252630933022426
+"Assignment_Early, Resource_Medium",0.12281778295953119
+"Assignment_Early, Result_Fail",0.06851164360445494
+"Assignment_Early, Result_Pass",0.23839474733838553
+"Assignment_Early, Result_Withdrawn",0.053631147792470774
+"Assignment_Late, Engagement_High",0.06424692418617495
+"Assignment_Late, Engagement_Medium",0.0558095296536066
+"Assignment_Late, Forum_Medium",0.07139569846286012
+"Assignment_Late, Quiz_High",0.10618844537170558
+"Assignment_Late, Resource_Medium",0.07547632927315681
+"Assignment_Late, Result_Pass",0.06489123431411653
+"Assignment_Missing, Engagement_High",0.058632221642684015
+"Assignment_Missing, Engagement_Low",0.24397876844721259
+"Assignment_Missing, Engagement_Medium",0.05341637774982358
+"Assignment_Missing, Forum_Low",0.22329948148375417
+"Assignment_Missing, Forum_Medium",0.09136931242904918
+"Assignment_Missing, Quiz_High",0.07882060565152027
+"Assignment_Missing, Quiz_Low",0.24468444144448195
+"Assignment_Missing, Resource_High",0.05995152333323106
+"Assignment_Missing, Resource_Low",0.21832908906820483
+"Assignment_Missing, Resource_Medium",0.0777467554382843
+"Assignment_Missing, Result_Fail",0.0722547786334489
+"Assignment_Missing, Result_Pass",0.09977602552695364
+"Assignment_Missing, Result_Withdrawn",0.18399656367931763
+"Assignment_OnTime, Engagement_High",0.06081060350381984
+"Assignment_OnTime, Engagement_Medium",0.0515448102353266
+"Assignment_OnTime, Forum_High",0.06139355076243365
+"Assignment_OnTime, Forum_Medium",0.0580492743840702
+"Assignment_OnTime, Quiz_Low",0.05427545792041236
+"Assignment_OnTime, Quiz_Medium",0.05522658239499279
+"Assignment_OnTime, Resource_High",0.06212990519436689
+"Assignment_OnTime, Resource_Medium",0.05811063725339797
+"Assignment_OnTime, Result_Pass",0.06897186512441322
+"Engagement_High, Forum_High",0.2734329457245421
+"Engagement_High, Forum_Medium",0.09385450863682386
+"Engagement_High, Quiz_High",0.24606510600435677
+"Engagement_High, Quiz_Medium",0.09179885251434357
+"Engagement_High, Resource_High",0.2884668487098457
+"Engagement_High, Resource_Medium",0.08308532506980026
+"Engagement_High, Result_Fail",0.05961402755192833
+"Engagement_High, Result_Pass",0.24891847942809806
+"Engagement_High, Result_Withdrawn",0.06476850857546099
+"Engagement_Low, Forum_Low",0.28091921578253
+"Engagement_Low, Forum_Medium",0.08050808455803393
+"Engagement_Low, Quiz_Low",0.3201300892829749
+"Engagement_Low, Resource_Low",0.29027705335501486
+"Engagement_Low, Resource_Medium",0.0716411499401712
+"Engagement_Low, Result_Fail",0.0911238609517381
+"Engagement_Low, Result_Pass",0.08928297487190501
+"Engagement_Low, Result_Withdrawn",0.1824624919461234
+"Engagement_Medium, Forum_High",0.05946062037860891
+"Engagement_Medium, Forum_Medium",0.16245819654527047
+"Engagement_Medium, Quiz_High",0.07268431871874328
+"Engagement_Medium, Quiz_Low",0.10459301076918356
+"Engagement_Medium, Quiz_Medium",0.08655232718681925
+"Engagement_Medium, Resource_Medium",0.1794250299143988
+"Engagement_Medium, Result_Fail",0.06562758874604976
+"Engagement_Medium, Result_Pass",0.13383241800386586
+"Engagement_Medium, Result_Withdrawn",0.06436964992483049
+"Forum_High, Quiz_High",0.16577179148897003
+"Forum_High, Quiz_Low",0.07354339888933206
+"Forum_High, Quiz_Medium",0.09502040315405148
+"Forum_High, Resource_High",0.21320528947933606
+"Forum_High, Resource_Medium",0.09799650231644831
+"Forum_High, Result_Fail",0.05464363513637898
+"Forum_High, Result_Pass",0.22517104899825116
+"Forum_High, Result_Withdrawn",0.05452090939772344
+"Forum_Low, Quiz_Low",0.25787745834995246
+"Forum_Low, Resource_Low",0.2386708802503605
+"Forum_Low, Resource_Medium",0.07299113306538214
+"Forum_Low, Result_Fail",0.07842174700088976
+"Forum_Low, Result_Pass",0.07836038413156199
+"Forum_Low, Result_Withdrawn",0.17206148559506643
+"Forum_Medium, Quiz_High",0.12337004878348111
+"Forum_Medium, Quiz_Low",0.12873929984966098
+"Forum_Medium, Quiz_Medium",0.08471144110698617
+"Forum_Medium, Resource_High",0.10253735464670329
+"Forum_Medium, Resource_Low",0.07111956555088515
+"Forum_Medium, Resource_Medium",0.1631638695425398
+"Forum_Medium, Result_Fail",0.08330009511244746
+"Forum_Medium, Result_Pass",0.16850243917405577
+"Forum_Medium, Result_Withdrawn",0.08501825545362501
+"Quiz_High, Resource_High",0.2021599730003375
+"Quiz_High, Resource_Medium",0.09713742214585953
+"Quiz_High, Result_Fail",0.060994692111803146
+"Quiz_High, Result_Pass",0.198294112232688
+"Quiz_High, Result_Withdrawn",0.0730831773693738
+"Quiz_Low, Resource_High",0.05534930813364833
+"Quiz_Low, Resource_Low",0.27312613137790326
+"Quiz_Low, Resource_Medium",0.13168471757739392
+"Quiz_Low, Result_Fail",0.10434755929187249
+"Quiz_Low, Result_Pass",0.16736722609149204
+"Quiz_Low, Result_Withdrawn",0.18844537170558096
+"Quiz_Medium, Resource_High",0.07541496640382904
+"Quiz_Medium, Resource_Medium",0.1053293652011168
+"Quiz_Medium, Result_Fail",0.05102322584604056
+"Quiz_Medium, Result_Pass",0.10637253397968889
+"Quiz_Medium, Result_Withdrawn",0.05007210137146013
+"Resource_High, Result_Fail",0.05792654864541466
+"Resource_High, Result_Pass",0.21789954898291045
+"Resource_High, Result_Withdrawn",0.05709814990948977
+"Resource_Low, Result_Fail",0.07829902126223422
+"Resource_Low, Result_Pass",0.08007854447273954
+"Resource_Low, Result_Withdrawn",0.1745466818028411
+"Resource_Medium, Result_Fail",0.08013990734206732
+"Resource_Medium, Result_Pass",0.17405577884821893
+"Resource_Medium, Result_Withdrawn",0.079955818734084
+"ActiveDays_High, Assignment_Early, Engagement_High",0.16675359739821435
+"ActiveDays_High, Assignment_Early, Forum_High",0.1588991501242598
+"ActiveDays_High, Assignment_Early, Quiz_High",0.09388519007148774
+"ActiveDays_High, Assignment_Early, Quiz_Medium",0.06308102966894732
+"ActiveDays_High, Assignment_Early, Resource_High",0.13763691590218757
+"ActiveDays_High, Assignment_Early, Result_Pass",0.14171754671248427
+"ActiveDays_High, Assignment_OnTime, Engagement_High",0.0511459515846961
+"ActiveDays_High, Engagement_High, Forum_High",0.23956064185561318
+"ActiveDays_High, Engagement_High, Forum_Medium",0.0631117111036112
+"ActiveDays_High, Engagement_High, Quiz_High",0.19246463964654986
+"ActiveDays_High, Engagement_High, Quiz_Medium",0.08287055502715307
+"ActiveDays_High, Engagement_High, Resource_High",0.23759703003712454
+"ActiveDays_High, Engagement_High, Resource_Medium",0.06765256343386616
+"ActiveDays_High, Engagement_High, Result_Pass",0.21357346669530267
+"ActiveDays_High, Forum_High, Quiz_High",0.1416868652778204
+"ActiveDays_High, Forum_High, Quiz_Medium",0.07280704445739883
+"ActiveDays_High, Forum_High, Resource_High",0.186297671279109
+"ActiveDays_High, Forum_High, Resource_Medium",0.061301506458442
+"ActiveDays_High, Forum_High, Result_Pass",0.18313748350872885
+"ActiveDays_High, Forum_Medium, Resource_High",0.0525572975792348
+"ActiveDays_High, Forum_Medium, Result_Pass",0.05298683766452919
+"ActiveDays_High, Quiz_High, Resource_High",0.16055594759610958
+"ActiveDays_High, Quiz_High, Result_Pass",0.13702328720890988
+"ActiveDays_High, Quiz_Medium, Resource_High",0.0550118123523456
+"ActiveDays_High, Quiz_Medium, Result_Pass",0.06268217101831682
+"ActiveDays_High, Resource_High, Result_Pass",0.1708955910778388
+"ActiveDays_High, Resource_Medium, Result_Pass",0.06329579971159452
+"ActiveDays_Low, Assignment_Missing, Engagement_Low",0.22492559752094007
+"ActiveDays_Low, Assignment_Missing, Forum_Low",0.20099407848310988
+"ActiveDays_Low, Assignment_Missing, Quiz_Low",0.20930874727702267
+"ActiveDays_Low, Assignment_Missing, Resource_Low",0.2058110637253398
+"ActiveDays_Low, Assignment_Missing, Result_Withdrawn",0.1554321480072408
+"ActiveDays_Low, Engagement_Low, Forum_Low",0.24956278955603964
+"ActiveDays_Low, Engagement_Low, Forum_Medium",0.05452090939772344
+"ActiveDays_Low, Engagement_Low, Quiz_Low",0.27370907863651706
+"ActiveDays_Low, Engagement_Low, Resource_Low",0.26272512502684625
+"ActiveDays_Low, Engagement_Low, Result_Fail",0.07498542631853465
+"ActiveDays_Low, Engagement_Low, Result_Pass",0.06022765624520603
+"ActiveDays_Low, Engagement_Low, Result_Withdrawn",0.17028196238456111
+"ActiveDays_Low, Forum_Low, Quiz_Low",0.22645966925413433
+"ActiveDays_Low, Forum_Low, Resource_Low",0.22474150891295677
+"ActiveDays_Low, Forum_Low, Result_Fail",0.05807995581873408
+"ActiveDays_Low, Forum_Low, Result_Withdrawn",0.15313104040744946
+"ActiveDays_Low, Quiz_Low, Resource_Low",0.23821065873040223
+"ActiveDays_Low, Quiz_Low, Result_Fail",0.06538213726873869
+"ActiveDays_Low, Quiz_Low, Result_Pass",0.05467431657104286
+"ActiveDays_Low, Quiz_Low, Result_Withdrawn",0.15675144969778787
+"ActiveDays_Low, Resource_Low, Result_Fail",0.06255944527966127
+"ActiveDays_Low, Resource_Low, Result_Withdrawn",0.15816279569232658
+"ActiveDays_Medium, Assignment_Early, Engagement_Medium",0.07375816893197926
+"ActiveDays_Medium, Assignment_Early, Forum_Medium",0.06532077439941092
+"ActiveDays_Medium, Assignment_Early, Quiz_Low",0.06004356763722272
+"ActiveDays_Medium, Assignment_Early, Resource_Medium",0.06139355076243365
+"ActiveDays_Medium, Assignment_Early, Result_Pass",0.07299113306538214
+"ActiveDays_Medium, Assignment_Late, Quiz_High",0.05007210137146013
+"ActiveDays_Medium, Engagement_High, Quiz_High",0.05283343049120977
+"ActiveDays_Medium, Engagement_High, Resource_High",0.05019482711011567
+"ActiveDays_Medium, Engagement_Medium, Forum_Medium",0.12720522811646673
+"ActiveDays_Medium, Engagement_Medium, Quiz_High",0.05850949590402847
+"ActiveDays_Medium, Engagement_Medium, Quiz_Low",0.07553769214248458
+"ActiveDays_Medium, Engagement_Medium, Quiz_Medium",0.06605712883134415
+"ActiveDays_Medium, Engagement_Medium, Resource_Medium",0.13812781885680975
+"ActiveDays_Medium, Engagement_Medium, Result_Fail",0.05163685453931826
+"ActiveDays_Medium, Engagement_Medium, Result_Pass",0.09876353818304544
+"ActiveDays_Medium, Forum_Medium, Quiz_High",0.06547418157273034
+"ActiveDays_Medium, Forum_Medium, Quiz_Low",0.06786733347651336
+"ActiveDays_Medium, Forum_Medium, Quiz_Medium",0.05010278280612401
+"ActiveDays_Medium, Forum_Medium, Resource_Medium",0.10704752554229435
+"ActiveDays_Medium, Forum_Medium, Result_Pass",0.09179885251434357
+"ActiveDays_Medium, Quiz_High, Resource_Medium",0.05623906973890099
+"ActiveDays_Medium, Quiz_High, Result_Pass",0.05430613935507624
+"ActiveDays_Medium, Quiz_Low, Resource_Medium",0.07243886724143221
+"ActiveDays_Medium, Quiz_Low, Result_Pass",0.07053661829227134
+"ActiveDays_Medium, Quiz_Medium, Resource_Medium",0.054459546528395665
+"ActiveDays_Medium, Resource_Medium, Result_Pass",0.09081704660509926
+"Assignment_Early, Engagement_High, Forum_High",0.1615377535053539
+"Assignment_Early, Engagement_High, Quiz_High",0.11026907618200227
+"Assignment_Early, Engagement_High, Quiz_Medium",0.058386770165372935
+"Assignment_Early, Engagement_High, Resource_High",0.1540208020127021
+"Assignment_Early, Engagement_High, Result_Pass",0.13696192433958213
+"Assignment_Early, Engagement_Low, Quiz_Low",0.059828797594575524
+"Assignment_Early, Engagement_Medium, Forum_Medium",0.05927653177062559
+"Assignment_Early, Engagement_Medium, Quiz_Low",0.05584021108827049
+"Assignment_Early, Engagement_Medium, Resource_Medium",0.06547418157273034
+"Assignment_Early, Engagement_Medium, Result_Pass",0.06639462461264689
+"Assignment_Early, Forum_High, Quiz_High",0.0925352069462768
+"Assignment_Early, Forum_High, Quiz_Medium",0.061148099285122576
+"Assignment_Early, Forum_High, Resource_High",0.1286472555456693
+"Assignment_Early, Forum_High, Resource_Medium",0.052772067621881996
+"Assignment_Early, Forum_High, Result_Pass",0.14361979566164515
+"Assignment_Early, Forum_Medium, Quiz_Low",0.05498113091768171
+"Assignment_Early, Forum_Medium, Resource_Medium",0.05133004019267941
+"Assignment_Early, Forum_Medium, Result_Pass",0.07099683981222962
+"Assignment_Early, Quiz_High, Resource_High",0.10253735464670329
+"Assignment_Early, Quiz_High, Result_Pass",0.08287055502715307
+"Assignment_Early, Quiz_Low, Resource_Medium",0.05777314147209524
+"Assignment_Early, Quiz_Low, Result_Pass",0.08557052127757495
+"Assignment_Early, Quiz_Medium, Resource_Medium",0.052189120363268185
+"Assignment_Early, Quiz_Medium, Result_Pass",0.06995367103365753
+"Assignment_Early, Resource_High, Result_Pass",0.12475071334335594
+"Assignment_Early, Resource_Medium, Result_Pass",0.07946491577946185
+"Assignment_Late, Engagement_High, Quiz_High",0.05654588408553984
+"Assignment_Late, Forum_Medium, Quiz_High",0.05396864357377351
+"Assignment_Late, Quiz_High, Resource_Medium",0.058386770165372935
+"Assignment_Late, Quiz_High, Result_Pass",0.052618660448562574
+"Assignment_Missing, Engagement_High, Quiz_High",0.0521584389286043
+"Assignment_Missing, Engagement_High, Resource_High",0.05252661614457092
+"Assignment_Missing, Engagement_Low, Forum_Low",0.21102690761820023
+"Assignment_Missing, Engagement_Low, Quiz_Low",0.22458810173963734
+"Assignment_Missing, Engagement_Low, Resource_Low",0.21295983800202498
+"Assignment_Missing, Engagement_Low, Result_Fail",0.050839137238057254
+"Assignment_Missing, Engagement_Low, Result_Withdrawn",0.15635259104715737
+"Assignment_Missing, Forum_Low, Quiz_Low",0.19838615653667965
+"Assignment_Missing, Forum_Low, Resource_Low",0.19163624091062498
+"Assignment_Missing, Forum_Low, Result_Withdrawn",0.14524591169883103
+"Assignment_Missing, Quiz_Low, Resource_Low",0.19985886540054612
+"Assignment_Missing, Quiz_Low, Result_Withdrawn",0.15006289694106095
+"Assignment_Missing, Resource_Low, Result_Withdrawn",0.14822201086122788
+"Assignment_OnTime, Engagement_High, Resource_High",0.05028687141410732
+"Engagement_High, Forum_High, Quiz_High",0.16463657840640628
+"Engagement_High, Forum_High, Quiz_Medium",0.07777743687294818
+"Engagement_High, Forum_High, Resource_High",0.21102690761820023
+"Engagement_High, Forum_High, Resource_Medium",0.06077992206915595
+"Engagement_High, Forum_High, Result_Pass",0.1885374160095726
+"Engagement_High, Forum_Medium, Quiz_High",0.0755070107078207
+"Engagement_High, Forum_Medium, Resource_High",0.07283772589206271
+"Engagement_High, Forum_Medium, Result_Pass",0.05691406130150646
+"Engagement_High, Quiz_High, Resource_High",0.1997054582272267
+"Engagement_High, Quiz_High, Result_Pass",0.1646058969717424
+"Engagement_High, Quiz_Medium, Resource_High",0.06179240941306415
+"Engagement_High, Quiz_Medium, Result_Pass",0.05801859294940631
+"Engagement_High, Resource_High, Result_Pass",0.19406007424907187
+"Engagement_High, Resource_Medium, Result_Pass",0.05366182922713466
+"Engagement_Low, Forum_Low, Quiz_Low",0.25063663976927564
+"Engagement_Low, Forum_Low, Resource_Low",0.2329948148375418
+"Engagement_Low, Forum_Low, Result_Fail",0.0659650845273525
+"Engagement_Low, Forum_Low, Result_Pass",0.056453839781548186
+"Engagement_Low, Forum_Low, Result_Withdrawn",0.15850029147362932
+"Engagement_Low, Forum_Medium, Quiz_Low",0.06805142208449667
+"Engagement_Low, Forum_Medium, Resource_Low",0.05584021108827049
+"Engagement_Low, Quiz_Low, Resource_Low",0.25855244991255794
+"Engagement_Low, Quiz_Low, Resource_Medium",0.06062651489583653
+"Engagement_Low, Quiz_Low, Result_Fail",0.07740925965698156
+"Engagement_Low, Quiz_Low, Result_Pass",0.07783879974227595
+"Engagement_Low, Quiz_Low, Result_Withdrawn",0.16488202988371736
+"Engagement_Low, Resource_Low, Result_Fail",0.06891050225508545
+"Engagement_Low, Resource_Low, Result_Pass",0.057895867210750775
+"Engagement_Low, Resource_Low, Result_Withdrawn",0.16347068388917865
+"Engagement_Medium, Forum_Medium, Quiz_Low",0.05626975117356488
+"Engagement_Medium, Forum_Medium, Quiz_Medium",0.059890160463903296
+"Engagement_Medium, Forum_Medium, Resource_Medium",0.11760193906667075
+"Engagement_Medium, Forum_Medium, Result_Pass",0.07949559721412573
+"Engagement_Medium, Quiz_High, Resource_Medium",0.05139140306200718
+"Engagement_Medium, Quiz_Low, Resource_Medium",0.06259012671432516
+"Engagement_Medium, Quiz_Low, Result_Pass",0.06323443684226675
+"Engagement_Medium, Quiz_Medium, Resource_Medium",0.06544350013806646
+"Engagement_Medium, Resource_Medium, Result_Pass",0.0895284263492161
+"Forum_High, Quiz_High, Resource_High",0.14061301506458443
+"Forum_High, Quiz_High, Result_Pass",0.11591446016015709
+"Forum_High, Quiz_Medium, Result_Pass",0.059982204767894946
+"Forum_High, Resource_High, Result_Pass",0.14809928512257234
+"Forum_High, Resource_Medium, Result_Pass",0.062344675237014084
+"Forum_Low, Quiz_Low, Resource_Low",0.21173258061546957
+"Forum_Low, Quiz_Low, Result_Fail",0.05752768999478416
+"Forum_Low, Quiz_Low, Result_Pass",0.053447059184487465
+"Forum_Low, Quiz_Low, Result_Withdrawn",0.14690270917068082
+"Forum_Low, Resource_Low, Result_Fail",0.052864111925873654
+"Forum_Low, Resource_Low, Result_Withdrawn",0.14865155094652227
+"Forum_Medium, Quiz_High, Resource_High",0.05522658239499279
+"Forum_Medium, Quiz_High, Resource_Medium",0.05427545792041236
+"Forum_Medium, Quiz_High, Result_Pass",0.06547418157273034
+"Forum_Medium, Quiz_Low, Resource_Medium",0.05985947902923941
+"Forum_Medium, Quiz_Low, Result_Pass",0.06464578283680544
+"Forum_Medium, Resource_High, Result_Pass",0.06013561194121437
+"Forum_Medium, Resource_Medium, Result_Pass",0.0801705887767312
+"Quiz_High, Resource_High, Result_Pass",0.13775964164084312
+"Quiz_Low, Resource_Low, Result_Fail",0.06176172797840027
+"Quiz_Low, Resource_Low, Result_Pass",0.05875494738133955
+"Quiz_Low, Resource_Low, Result_Withdrawn",0.15260945601816342
+"Quiz_Low, Resource_Medium, Result_Pass",0.07200932715613782
+"Quiz_Medium, Resource_Medium, Result_Pass",0.05271070475255423
+"ActiveDays_High, Assignment_Early, Engagement_High, Forum_High",0.14727088638664743
+"ActiveDays_High, Assignment_Early, Engagement_High, Quiz_High",0.09360905715951277
+"ActiveDays_High, Assignment_Early, Engagement_High, Quiz_Medium",0.05409136931242905
+"ActiveDays_High, Assignment_Early, Engagement_High, Resource_High",0.1342005952198325
+"ActiveDays_High, Assignment_Early, Engagement_High, Result_Pass",0.12367686313011997
+"ActiveDays_High, Assignment_Early, Forum_High, Quiz_High",0.08311600650446414
+"ActiveDays_High, Assignment_Early, Forum_High, Resource_High",0.1160985487681404
+"ActiveDays_High, Assignment_Early, Forum_High, Result_Pass",0.11947350658116773
+"ActiveDays_High, Assignment_Early, Quiz_High, Resource_High",0.08722731874942473
+"ActiveDays_High, Assignment_Early, Quiz_High, Result_Pass",0.0696161752523548
+"ActiveDays_High, Assignment_Early, Resource_High, Result_Pass",0.10213849599607278
+"ActiveDays_High, Engagement_High, Forum_High, Quiz_High",0.1416868652778204
+"ActiveDays_High, Engagement_High, Forum_High, Quiz_Medium",0.0708434326389102
+"ActiveDays_High, Engagement_High, Forum_High, Resource_High",0.186297671279109
+"ActiveDays_High, Engagement_High, Forum_High, Resource_Medium",0.051851624581965454
+"ActiveDays_High, Engagement_High, Forum_High, Result_Pass",0.1708649096431749
+"ActiveDays_High, Engagement_High, Quiz_High, Resource_High",0.16055594759610958
+"ActiveDays_High, Engagement_High, Quiz_High, Result_Pass",0.1357653483876906
+"ActiveDays_High, Engagement_High, Quiz_Medium, Resource_High",0.05406068787776516
+"ActiveDays_High, Engagement_High, Quiz_Medium, Result_Pass",0.05396864357377351
+"ActiveDays_High, Engagement_High, Resource_High, Result_Pass",0.166845641702206
+"ActiveDays_High, Forum_High, Quiz_High, Resource_High",0.12560979351394472
+"ActiveDays_High, Forum_High, Quiz_High, Result_Pass",0.10333507194796429
+"ActiveDays_High, Forum_High, Resource_High, Result_Pass",0.1339244623078575
+"ActiveDays_High, Quiz_High, Resource_High, Result_Pass",0.1150860614242322
+"ActiveDays_Low, Assignment_Missing, Engagement_Low, Forum_Low",0.19927591814193232
+"ActiveDays_Low, Assignment_Missing, Engagement_Low, Quiz_Low",0.20832694136777835
+"ActiveDays_Low, Assignment_Missing, Engagement_Low, Resource_Low",0.20501334642407879
+"ActiveDays_Low, Assignment_Missing, Engagement_Low, Result_Withdrawn",0.1515662872395913
+"ActiveDays_Low, Assignment_Missing, Forum_Low, Quiz_Low",0.1871260700150339
+"ActiveDays_Low, Assignment_Missing, Forum_Low, Resource_Low",0.18737152149234498
+"ActiveDays_Low, Assignment_Missing, Forum_Low, Result_Withdrawn",0.13993802350197895
+"ActiveDays_Low, Assignment_Missing, Quiz_Low, Resource_Low",0.192433958211886
+"ActiveDays_Low, Assignment_Missing, Quiz_Low, Result_Withdrawn",0.14236185684042585
+"ActiveDays_Low, Assignment_Missing, Resource_Low, Result_Withdrawn",0.14334366274967017
+"ActiveDays_Low, Engagement_Low, Forum_Low, Quiz_Low",0.22639830638480654
+"ActiveDays_Low, Engagement_Low, Forum_Low, Resource_Low",0.22471082747829288
+"ActiveDays_Low, Engagement_Low, Forum_Low, Result_Fail",0.05709814990948977
+"ActiveDays_Low, Engagement_Low, Forum_Low, Result_Withdrawn",0.1522105973675329
+"ActiveDays_Low, Engagement_Low, Quiz_Low, Resource_Low",0.23817997729573834
+"ActiveDays_Low, Engagement_Low, Quiz_Low, Result_Fail",0.06452305709814991
+"ActiveDays_Low, Engagement_Low, Quiz_Low, Result_Pass",0.0533856963151597
+"ActiveDays_Low, Engagement_Low, Quiz_Low, Result_Withdrawn",0.15580032522320744
+"ActiveDays_Low, Engagement_Low, Resource_Low, Result_Fail",0.06148559506642531
+"ActiveDays_Low, Engagement_Low, Resource_Low, Result_Withdrawn",0.15672076826312398
+"ActiveDays_Low, Forum_Low, Quiz_Low, Resource_Low",0.20679286963458413
+"ActiveDays_Low, Forum_Low, Quiz_Low, Result_Withdrawn",0.14162550240849262
+"ActiveDays_Low, Forum_Low, Resource_Low, Result_Withdrawn",0.1443254686589145
+"ActiveDays_Low, Quiz_Low, Resource_Low, Result_Fail",0.05332433344583193
+"ActiveDays_Low, Quiz_Low, Resource_Low, Result_Withdrawn",0.14579817752278096
+"ActiveDays_Medium, Engagement_Medium, Forum_Medium, Resource_Medium",0.09379314576749609
+"ActiveDays_Medium, Engagement_Medium, Forum_Medium, Result_Pass",0.062406038106341856
+"ActiveDays_Medium, Engagement_Medium, Resource_Medium, Result_Pass",0.06725370478323567
+"ActiveDays_Medium, Forum_Medium, Resource_Medium, Result_Pass",0.05295615622986531
+"Assignment_Early, Engagement_High, Forum_High, Quiz_High",0.09201362255699076
+"Assignment_Early, Engagement_High, Forum_High, Quiz_Medium",0.050839137238057254
+"Assignment_Early, Engagement_High, Forum_High, Resource_High",0.12763476820176112
+"Assignment_Early, Engagement_High, Forum_High, Result_Pass",0.11895192219188169
+"Assignment_Early, Engagement_High, Quiz_High, Resource_High",0.10173963734544228
+"Assignment_Early, Engagement_High, Quiz_High, Result_Pass",0.07888196852084803
+"Assignment_Early, Engagement_High, Resource_High, Result_Pass",0.11134292639523824
+"Assignment_Early, Forum_High, Quiz_High, Resource_High",0.08507961832295279
+"Assignment_Early, Forum_High, Quiz_High, Result_Pass",0.0679900592151689
+"Assignment_Early, Forum_High, Resource_High, Result_Pass",0.09511244745804313
+"Assignment_Early, Quiz_High, Resource_High, Result_Pass",0.07357408032399596
+"Assignment_Missing, Engagement_Low, Forum_Low, Quiz_Low",0.1968520848034854
+"Assignment_Missing, Engagement_Low, Forum_Low, Resource_Low",0.19068511643604455
+"Assignment_Missing, Engagement_Low, Forum_Low, Result_Withdrawn",0.1419016353204676
+"Assignment_Missing, Engagement_Low, Quiz_Low, Resource_Low",0.19863160801399074
+"Assignment_Missing, Engagement_Low, Quiz_Low, Result_Withdrawn",0.14539931887215046
+"Assignment_Missing, Engagement_Low, Resource_Low, Result_Withdrawn",0.1458902218267726
+"Assignment_Missing, Forum_Low, Quiz_Low, Resource_Low",0.18046819869297087
+"Assignment_Missing, Forum_Low, Quiz_Low, Result_Withdrawn",0.13447672813180744
+"Assignment_Missing, Forum_Low, Resource_Low, Result_Withdrawn",0.13604148129966556
+"Assignment_Missing, Quiz_Low, Resource_Low, Result_Withdrawn",0.1382198631608014
+"Engagement_High, Forum_High, Quiz_High, Resource_High",0.14061301506458443
+"Engagement_High, Forum_High, Quiz_High, Result_Pass",0.11533151290154328
+"Engagement_High, Forum_High, Quiz_Medium, Result_Pass",0.05056300432608229
+"Engagement_High, Forum_High, Resource_High, Result_Pass",0.14699475347467247
+"Engagement_High, Forum_Medium, Quiz_High, Resource_High",0.05458227226705121
+"Engagement_High, Quiz_High, Resource_High, Result_Pass",0.13650170281962384
+"Engagement_Low, Forum_Low, Quiz_Low, Resource_Low",0.21173258061546957
+"Engagement_Low, Forum_Low, Quiz_Low, Result_Fail",0.055962936826926026
+"Engagement_Low, Forum_Low, Quiz_Low, Result_Withdrawn",0.14582885895744485
+"Engagement_Low, Forum_Low, Resource_Low, Result_Fail",0.05148344736599884
+"Engagement_Low, Forum_Low, Resource_Low, Result_Withdrawn",0.14650385052005033
+"Engagement_Low, Quiz_Low, Resource_Low, Result_Fail",0.0588469916853312
+"Engagement_Low, Quiz_Low, Resource_Low, Result_Withdrawn",0.15043107415702758
+"Engagement_Medium, Forum_Medium, Resource_Medium, Result_Pass",0.057895867210750775
+"Forum_High, Quiz_High, Resource_High, Result_Pass",0.10048169852422299
+"Forum_Low, Quiz_Low, Resource_Low, Result_Withdrawn",0.13742214585954038
+"ActiveDays_High, Assignment_Early, Engagement_High, Forum_High, Quiz_High",0.08311600650446414
+"ActiveDays_High, Assignment_Early, Engagement_High, Forum_High, Resource_High",0.1160985487681404
+"ActiveDays_High, Assignment_Early, Engagement_High, Forum_High, Result_Pass",0.110606571963305
+"ActiveDays_High, Assignment_Early, Engagement_High, Quiz_High, Resource_High",0.08722731874942473
+"ActiveDays_High, Assignment_Early, Engagement_High, Quiz_High, Result_Pass",0.06943208664437149
+"ActiveDays_High, Assignment_Early, Engagement_High, Resource_High, Result_Pass",0.09989875126560918
+"ActiveDays_High, Assignment_Early, Forum_High, Quiz_High, Resource_High",0.07802288835025926
+"ActiveDays_High, Assignment_Early, Forum_High, Quiz_High, Result_Pass",0.06255944527966127
+"ActiveDays_High, Assignment_Early, Forum_High, Resource_High, Result_Pass",0.08774890313871077
+"ActiveDays_High, Assignment_Early, Quiz_High, Resource_High, Result_Pass",0.06501396005277207
+"ActiveDays_High, Engagement_High, Forum_High, Quiz_High, Resource_High",0.12560979351394472
+"ActiveDays_High, Engagement_High, Forum_High, Quiz_High, Result_Pass",0.10333507194796429
+"ActiveDays_High, Engagement_High, Forum_High, Resource_High, Result_Pass",0.1339244623078575
+"ActiveDays_High, Engagement_High, Quiz_High, Resource_High, Result_Pass",0.1150860614242322
+"ActiveDays_High, Forum_High, Quiz_High, Resource_High, Result_Pass",0.09238179977295738
+"ActiveDays_Low, Assignment_Missing, Engagement_Low, Forum_Low, Quiz_Low",0.18709538858037003
+"ActiveDays_Low, Assignment_Missing, Engagement_Low, Forum_Low, Resource_Low",0.1873408400576811
+"ActiveDays_Low, Assignment_Missing, Engagement_Low, Forum_Low, Result_Withdrawn",0.13950848341668456
+"ActiveDays_Low, Assignment_Missing, Engagement_Low, Quiz_Low, Resource_Low",0.192433958211886
+"ActiveDays_Low, Assignment_Missing, Engagement_Low, Quiz_Low, Result_Withdrawn",0.14193231675513146
+"ActiveDays_Low, Assignment_Missing, Engagement_Low, Resource_Low, Result_Withdrawn",0.14306752983769522
+"ActiveDays_Low, Assignment_Missing, Forum_Low, Quiz_Low, Resource_Low",0.17807504678918787
+"ActiveDays_Low, Assignment_Missing, Forum_Low, Quiz_Low, Result_Withdrawn",0.13278924922529378
+"ActiveDays_Low, Assignment_Missing, Forum_Low, Resource_Low, Result_Withdrawn",0.13472217960911853
+"ActiveDays_Low, Assignment_Missing, Quiz_Low, Resource_Low, Result_Withdrawn",0.13588807412634615
+"ActiveDays_Low, Engagement_Low, Forum_Low, Quiz_Low, Resource_Low",0.20679286963458413
+"ActiveDays_Low, Engagement_Low, Forum_Low, Quiz_Low, Result_Withdrawn",0.14162550240849262
+"ActiveDays_Low, Engagement_Low, Forum_Low, Resource_Low, Result_Withdrawn",0.1442947872242506
+"ActiveDays_Low, Engagement_Low, Quiz_Low, Resource_Low, Result_Fail",0.05332433344583193
+"ActiveDays_Low, Engagement_Low, Quiz_Low, Resource_Low, Result_Withdrawn",0.14579817752278096
+"ActiveDays_Low, Forum_Low, Quiz_Low, Resource_Low, Result_Withdrawn",0.13631761421164054
+"Assignment_Early, Engagement_High, Forum_High, Quiz_High, Resource_High",0.08507961832295279
+"Assignment_Early, Engagement_High, Forum_High, Quiz_High, Result_Pass",0.06756051912987451
+"Assignment_Early, Engagement_High, Forum_High, Resource_High, Result_Pass",0.09446813733010155
+"Assignment_Early, Engagement_High, Quiz_High, Resource_High, Result_Pass",0.07323658454269322
+"Assignment_Early, Forum_High, Quiz_High, Resource_High, Result_Pass",0.06298898536495566
+"Assignment_Missing, Engagement_Low, Forum_Low, Quiz_Low, Resource_Low",0.18046819869297087
+"Assignment_Missing, Engagement_Low, Forum_Low, Quiz_Low, Result_Withdrawn",0.13426195808916025
+"Assignment_Missing, Engagement_Low, Forum_Low, Resource_Low, Result_Withdrawn",0.13570398551836285
+"Assignment_Missing, Engagement_Low, Quiz_Low, Resource_Low, Result_Withdrawn",0.1378210045101709
+"Assignment_Missing, Forum_Low, Quiz_Low, Resource_Low, Result_Withdrawn",0.13024269014819134
+"Engagement_High, Forum_High, Quiz_High, Resource_High, Result_Pass",0.10048169852422299
+"Engagement_Low, Forum_Low, Quiz_Low, Resource_Low, Result_Withdrawn",0.13742214585954038
+"ActiveDays_High, Assignment_Early, Engagement_High, Forum_High, Quiz_High, Resource_High",0.07802288835025926
+"ActiveDays_High, Assignment_Early, Engagement_High, Forum_High, Quiz_High, Result_Pass",0.06255944527966127
+"ActiveDays_High, Assignment_Early, Engagement_High, Forum_High, Resource_High, Result_Pass",0.08774890313871077
+"ActiveDays_High, Assignment_Early, Engagement_High, Quiz_High, Resource_High, Result_Pass",0.06501396005277207
+"ActiveDays_High, Assignment_Early, Forum_High, Quiz_High, Resource_High, Result_Pass",0.05900039885865063
+"ActiveDays_High, Engagement_High, Forum_High, Quiz_High, Resource_High, Result_Pass",0.09238179977295738
+"ActiveDays_Low, Assignment_Missing, Engagement_Low, Forum_Low, Quiz_Low, Resource_Low",0.17807504678918787
+"ActiveDays_Low, Assignment_Missing, Engagement_Low, Forum_Low, Quiz_Low, Result_Withdrawn",0.13278924922529378
+"ActiveDays_Low, Assignment_Missing, Engagement_Low, Forum_Low, Resource_Low, Result_Withdrawn",0.13469149817445464
+"ActiveDays_Low, Assignment_Missing, Engagement_Low, Quiz_Low, Resource_Low, Result_Withdrawn",0.13588807412634615
+"ActiveDays_Low, Assignment_Missing, Forum_Low, Quiz_Low, Resource_Low, Result_Withdrawn",0.12972110575890528
+"ActiveDays_Low, Engagement_Low, Forum_Low, Quiz_Low, Resource_Low, Result_Withdrawn",0.13631761421164054
+"Assignment_Early, Engagement_High, Forum_High, Quiz_High, Resource_High, Result_Pass",0.06298898536495566
+"Assignment_Missing, Engagement_Low, Forum_Low, Quiz_Low, Resource_Low, Result_Withdrawn",0.13024269014819134
+"ActiveDays_High, Assignment_Early, Engagement_High, Forum_High, Quiz_High, Resource_High, Result_Pass",0.05900039885865063
+"ActiveDays_Low, Assignment_Missing, Engagement_Low, Forum_Low, Quiz_Low, Resource_Low, Result_Withdrawn",0.12972110575890528
