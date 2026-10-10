@@ -100,33 +100,23 @@ def load_transactions(filename):
         encoding="utf-8-sig"
     ) as file:
 
-        reader = csv.reader(file)
+        reader = csv.DictReader(file)
+
+        if reader.fieldnames is None or "items" not in reader.fieldnames:
+            print("ERROR: transactions.csv is missing the items column.")
+            return transactions
 
         for row in reader:
+            item_string = row["items"]
 
-            if not row:
+            if item_string is None or not item_string.strip():
                 continue
 
-            row = [
+            transactions.append([
                 item.strip()
-                for item in row
+                for item in item_string.split(",")
                 if item.strip()
-            ]
-
-            if not row:
-                continue
-
-            # Skip header
-            first = row[0].lower()
-
-            if first in [
-                "transaction",
-                "items",
-                "itemset"
-            ]:
-                continue
-
-            transactions.append(row)
+            ])
 
     return transactions
 
