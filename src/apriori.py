@@ -183,15 +183,15 @@ if __name__ == "__main__":
     for itemset, support in L2.items():
         print(itemset, "Support:", round(support, 4))
 
-print("\n==============================")
-print("Running complete Apriori")
-print("==============================")
+    print("\n==============================")
+    print("Running complete Apriori")
+    print("==============================")
 
-frequent_itemsets = apriori(transactions, min_support)
+    frequent_itemsets = apriori(transactions, min_support)
 
-print("\nTotal frequent itemsets:", len(frequent_itemsets))
+    print("\nTotal frequent itemsets:", len(frequent_itemsets))
 
-save_frequent_itemsets(
-    frequent_itemsets,
-    "results/frequent_itemsets.csv"
-)
+    save_frequent_itemsets(
+        frequent_itemsets,
+        "results/frequent_itemsets.csv"
+    )
