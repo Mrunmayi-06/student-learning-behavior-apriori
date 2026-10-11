@@ -1,0 +1,4 @@
+period,outcome,baseline_share,rules,avg_confidence,max_confidence,max_lift
+Weeks 1-4,Pass,0.472,39,0.707,0.752,1.593
+Weeks 1-4,Fail,0.216,0,0.0,0.0,0.0
+Weeks 1-4,Withdrawn,0.312,45,0.672,0.728,2.338

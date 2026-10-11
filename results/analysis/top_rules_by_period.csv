@@ -1,0 +1,11 @@
+period,outcome,antecedent,consequent,support,confidence,lift
+Weeks 1-4,Pass,ActiveDays_High + Assignment_Early + Forum_High,Result_Pass,0.1195,0.7519,1.5929
+Weeks 1-4,Pass,ActiveDays_High + Assignment_Early + Engagement_High + Forum_High,Result_Pass,0.1106,0.751,1.5911
+Weeks 1-4,Pass,ActiveDays_High + Assignment_Early + Resource_High,Result_Pass,0.1021,0.7421,1.5721
+Weeks 1-4,Pass,ActiveDays_High + Assignment_Early + Engagement_High,Result_Pass,0.1237,0.7417,1.5712
+Weeks 1-4,Pass,ActiveDays_High + Assignment_Early,Result_Pass,0.1417,0.7379,1.5631
+Weeks 1-4,Withdrawn,ActiveDays_Low + Assignment_Missing + Forum_Low + Quiz_Low + Resource_Low,Result_Withdrawn,0.1297,0.7285,2.3378
+Weeks 1-4,Withdrawn,ActiveDays_Low + Assignment_Missing + Engagement_Low + Forum_Low + Quiz_Low + Resource_Low,Result_Withdrawn,0.1297,0.7285,2.3378
+Weeks 1-4,Withdrawn,Assignment_Missing + Forum_Low + Quiz_Low + Resource_Low,Result_Withdrawn,0.1302,0.7217,2.3161
+Weeks 1-4,Withdrawn,Assignment_Missing + Engagement_Low + Forum_Low + Quiz_Low + Resource_Low,Result_Withdrawn,0.1302,0.7217,2.3161
+Weeks 1-4,Withdrawn,ActiveDays_Low + Assignment_Missing + Forum_Low + Resource_Low,Result_Withdrawn,0.1347,0.719,2.3075

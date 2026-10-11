@@ -1,0 +1,46 @@
+antecedent,consequent,support,confidence,lift
+ActiveDays_Low + Assignment_Missing + Forum_Low + Quiz_Low + Resource_Low,Result_Withdrawn,0.1297,0.7285,2.3378
+ActiveDays_Low + Assignment_Missing + Engagement_Low + Forum_Low + Quiz_Low + Resource_Low,Result_Withdrawn,0.1297,0.7285,2.3378
+Assignment_Missing + Forum_Low + Quiz_Low + Resource_Low,Result_Withdrawn,0.1302,0.7217,2.3161
+Assignment_Missing + Engagement_Low + Forum_Low + Quiz_Low + Resource_Low,Result_Withdrawn,0.1302,0.7217,2.3161
+ActiveDays_Low + Assignment_Missing + Forum_Low + Resource_Low,Result_Withdrawn,0.1347,0.719,2.3075
+ActiveDays_Low + Assignment_Missing + Engagement_Low + Forum_Low + Resource_Low,Result_Withdrawn,0.1347,0.719,2.3073
+Assignment_Missing + Engagement_Low + Forum_Low + Resource_Low,Result_Withdrawn,0.1357,0.7117,2.2839
+Assignment_Missing + Forum_Low + Resource_Low,Result_Withdrawn,0.136,0.7099,2.2782
+ActiveDays_Low + Assignment_Missing + Engagement_Low + Forum_Low + Quiz_Low,Result_Withdrawn,0.1328,0.7097,2.2777
+ActiveDays_Low + Assignment_Missing + Forum_Low + Quiz_Low,Result_Withdrawn,0.1328,0.7096,2.2774
+ActiveDays_Low + Assignment_Missing + Quiz_Low + Resource_Low,Result_Withdrawn,0.1359,0.7062,2.2662
+ActiveDays_Low + Assignment_Missing + Engagement_Low + Quiz_Low + Resource_Low,Result_Withdrawn,0.1359,0.7062,2.2662
+ActiveDays_Low + Assignment_Missing + Engagement_Low + Forum_Low,Result_Withdrawn,0.1395,0.7001,2.2467
+ActiveDays_Low + Assignment_Missing + Engagement_Low + Resource_Low,Result_Withdrawn,0.1431,0.6978,2.2395
+ActiveDays_Low + Assignment_Missing + Resource_Low,Result_Withdrawn,0.1433,0.6965,2.2352
+ActiveDays_Low + Assignment_Missing + Forum_Low,Result_Withdrawn,0.1399,0.6962,2.2344
+Assignment_Missing + Engagement_Low + Quiz_Low + Resource_Low,Result_Withdrawn,0.1378,0.6939,2.2267
+Assignment_Missing + Quiz_Low + Resource_Low,Result_Withdrawn,0.1382,0.6916,2.2195
+Assignment_Missing + Engagement_Low + Resource_Low,Result_Withdrawn,0.1459,0.6851,2.1985
+Assignment_Missing + Engagement_Low + Forum_Low + Quiz_Low,Result_Withdrawn,0.1343,0.682,2.1888
+ActiveDays_Low + Assignment_Missing + Engagement_Low + Quiz_Low,Result_Withdrawn,0.1419,0.6813,2.1864
+ActiveDays_Low + Assignment_Missing + Quiz_Low,Result_Withdrawn,0.1424,0.6802,2.1828
+Assignment_Missing + Resource_Low,Result_Withdrawn,0.1482,0.6789,2.1787
+Assignment_Missing + Forum_Low + Quiz_Low,Result_Withdrawn,0.1345,0.6779,2.1754
+ActiveDays_Low + Assignment_Missing + Engagement_Low,Result_Withdrawn,0.1516,0.6739,2.1625
+Assignment_Missing + Engagement_Low + Forum_Low,Result_Withdrawn,0.1419,0.6724,2.158
+ActiveDays_Low + Assignment_Missing,Result_Withdrawn,0.1554,0.6642,2.1316
+ActiveDays_Low + Forum_Low + Quiz_Low + Resource_Low,Result_Withdrawn,0.1363,0.6592,2.1155
+ActiveDays_Low + Engagement_Low + Forum_Low + Quiz_Low + Resource_Low,Result_Withdrawn,0.1363,0.6592,2.1155
+Assignment_Missing + Forum_Low,Result_Withdrawn,0.1452,0.6505,2.0875
+Forum_Low + Quiz_Low + Resource_Low,Result_Withdrawn,0.1374,0.649,2.0829
+Engagement_Low + Forum_Low + Quiz_Low + Resource_Low,Result_Withdrawn,0.1374,0.649,2.0829
+Assignment_Missing + Engagement_Low + Quiz_Low,Result_Withdrawn,0.1454,0.6474,2.0777
+ActiveDays_Low + Forum_Low + Resource_Low,Result_Withdrawn,0.1443,0.6422,2.0609
+ActiveDays_Low + Engagement_Low + Forum_Low + Resource_Low,Result_Withdrawn,0.1443,0.6421,2.0608
+Assignment_Missing + Engagement_Low,Result_Withdrawn,0.1564,0.6408,2.0566
+Engagement_Low + Forum_Low + Resource_Low,Result_Withdrawn,0.1465,0.6288,2.0179
+ActiveDays_Low + Engagement_Low + Forum_Low + Quiz_Low,Result_Withdrawn,0.1416,0.6256,2.0076
+ActiveDays_Low + Forum_Low + Quiz_Low,Result_Withdrawn,0.1416,0.6254,2.007
+Forum_Low + Resource_Low,Result_Withdrawn,0.1487,0.6228,1.9988
+Assignment_Missing + Quiz_Low,Result_Withdrawn,0.1501,0.6133,1.9682
+ActiveDays_Low + Engagement_Low + Quiz_Low + Resource_Low,Result_Withdrawn,0.1458,0.6121,1.9645
+ActiveDays_Low + Quiz_Low + Resource_Low,Result_Withdrawn,0.1458,0.6121,1.9642
+ActiveDays_Low + Engagement_Low + Forum_Low,Result_Withdrawn,0.1522,0.6099,1.9573
+ActiveDays_Low + Forum_Low,Result_Withdrawn,0.1531,0.6054,1.9429

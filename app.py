@@ -59,7 +59,6 @@ if not pngs:
     st.info("No graphs yet. Run `python main.py` first.")
 for p in pngs:
     st.image(str(p), caption=p.stem.replace("_", " "), width=550)
-cat >> app.py <<'EOF'
 
 st.divider()
 st.header("Threshold experiment (created by main.py)")
@@ -76,4 +75,3 @@ if not _pngs:
     st.info("No graphs yet. Run `python main.py` first.")
 for _p in _pngs:
     st.image(str(_p), caption=_p.stem.replace("_", " "), width=550)
-EOF

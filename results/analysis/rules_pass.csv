@@ -1,0 +1,40 @@
+antecedent,consequent,support,confidence,lift
+ActiveDays_High + Assignment_Early + Forum_High,Result_Pass,0.1195,0.7519,1.5929
+ActiveDays_High + Assignment_Early + Engagement_High + Forum_High,Result_Pass,0.1106,0.751,1.5911
+ActiveDays_High + Assignment_Early + Resource_High,Result_Pass,0.1021,0.7421,1.5721
+ActiveDays_High + Assignment_Early + Engagement_High,Result_Pass,0.1237,0.7417,1.5712
+ActiveDays_High + Assignment_Early,Result_Pass,0.1417,0.7379,1.5631
+Assignment_Early + Engagement_High + Forum_High,Result_Pass,0.119,0.7364,1.56
+Assignment_Early + Forum_High,Result_Pass,0.1436,0.7294,1.5451
+ActiveDays_High + Forum_High + Quiz_High,Result_Pass,0.1033,0.7293,1.5451
+ActiveDays_High + Engagement_High + Forum_High + Quiz_High,Result_Pass,0.1033,0.7293,1.5451
+Assignment_Early + Engagement_High + Resource_High,Result_Pass,0.1113,0.7229,1.5315
+Assignment_Early + Engagement_High,Result_Pass,0.137,0.7223,1.5303
+ActiveDays_High + Forum_High + Resource_High,Result_Pass,0.1339,0.7189,1.5229
+ActiveDays_High + Engagement_High + Forum_High + Resource_High,Result_Pass,0.1339,0.7189,1.5229
+ActiveDays_High + Quiz_High + Resource_High,Result_Pass,0.1151,0.7168,1.5185
+ActiveDays_High + Engagement_High + Quiz_High + Resource_High,Result_Pass,0.1151,0.7168,1.5185
+Forum_High + Quiz_High + Resource_High,Result_Pass,0.1005,0.7146,1.5139
+Engagement_High + Forum_High + Quiz_High + Resource_High,Result_Pass,0.1005,0.7146,1.5139
+ActiveDays_High + Forum_High,Result_Pass,0.1831,0.7136,1.5117
+ActiveDays_High + Engagement_High + Forum_High,Result_Pass,0.1709,0.7132,1.511
+Assignment_Early + Resource_High,Result_Pass,0.1248,0.711,1.5062
+ActiveDays_High + Engagement_High + Quiz_High,Result_Pass,0.1358,0.7054,1.4944
+ActiveDays_High + Quiz_High,Result_Pass,0.137,0.7034,1.4902
+ActiveDays_High + Engagement_High + Resource_High,Result_Pass,0.1668,0.7022,1.4876
+ActiveDays_High + Resource_High,Result_Pass,0.1709,0.7012,1.4854
+Engagement_High + Forum_High + Quiz_High,Result_Pass,0.1153,0.7005,1.484
+Forum_High + Quiz_High,Result_Pass,0.1159,0.6992,1.4813
+Engagement_High + Forum_High + Resource_High,Result_Pass,0.147,0.6966,1.4757
+ActiveDays_High + Engagement_High,Result_Pass,0.2136,0.6962,1.4748
+Forum_High + Resource_High,Result_Pass,0.1481,0.6946,1.4716
+ActiveDays_High,Result_Pass,0.2419,0.6908,1.4635
+Engagement_High + Forum_High,Result_Pass,0.1885,0.6895,1.4607
+Engagement_High + Quiz_High + Resource_High,Result_Pass,0.1365,0.6835,1.448
+Quiz_High + Resource_High,Result_Pass,0.1378,0.6814,1.4436
+Forum_High,Result_Pass,0.2252,0.6735,1.4268
+Engagement_High + Resource_High,Result_Pass,0.1941,0.6727,1.4252
+Engagement_High + Quiz_High,Result_Pass,0.1646,0.669,1.4172
+Engagement_High,Result_Pass,0.2489,0.6668,1.4126
+Assignment_Early,Result_Pass,0.2384,0.6612,1.4008
+Resource_High,Result_Pass,0.2179,0.6545,1.3866

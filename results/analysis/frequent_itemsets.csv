@@ -1,0 +1,260 @@
+itemset,size,support
+Result_Pass,1,0.472
+Quiz_Low,1,0.4602
+Engagement_High,1,0.3733
+Engagement_Low,1,0.3629
+Assignment_Early,1,0.3605
+Assignment_Missing,1,0.356
+ActiveDays_High,1,0.3501
+Forum_Medium,1,0.3368
+Forum_High,1,0.3343
+Resource_Medium,1,0.3342
+Resource_Low,1,0.3329
+Resource_High,1,0.3329
+Quiz_High,1,0.3324
+Forum_Low,1,0.3288
+ActiveDays_Low,1,0.327
+ActiveDays_Medium,1,0.3229
+"Engagement_Low, Quiz_Low",2,0.3201
+Result_Withdrawn,1,0.3116
+"ActiveDays_High, Engagement_High",2,0.3068
+"ActiveDays_Low, Engagement_Low",2,0.3055
+"Engagement_Low, Resource_Low",2,0.2903
+"Engagement_High, Resource_High",2,0.2885
+"Engagement_Low, Forum_Low",2,0.2809
+"ActiveDays_Low, Quiz_Low",2,0.2768
+"ActiveDays_Low, Engagement_Low, Quiz_Low",3,0.2737
+"Engagement_High, Forum_High",2,0.2734
+"Quiz_Low, Resource_Low",2,0.2731
+"ActiveDays_Low, Resource_Low",2,0.2663
+Engagement_Medium,1,0.2638
+"ActiveDays_Low, Engagement_Low, Resource_Low",3,0.2627
+"Engagement_Low, Quiz_Low, Resource_Low",3,0.2586
+"Forum_Low, Quiz_Low",2,0.2579
+"ActiveDays_High, Forum_High",2,0.2567
+"ActiveDays_Low, Forum_Low",2,0.2529
+"Engagement_Low, Forum_Low, Quiz_Low",3,0.2506
+"ActiveDays_Low, Engagement_Low, Forum_Low",3,0.2496
+"Engagement_High, Result_Pass",2,0.2489
+"Engagement_High, Quiz_High",2,0.2461
+"Assignment_Missing, Quiz_Low",2,0.2447
+"Assignment_Missing, Engagement_Low",2,0.244
+"ActiveDays_High, Resource_High",2,0.2437
+"ActiveDays_High, Result_Pass",2,0.2419
+"ActiveDays_High, Engagement_High, Forum_High",3,0.2396
+"Forum_Low, Resource_Low",2,0.2387
+"Assignment_Early, Result_Pass",2,0.2384
+"ActiveDays_Low, Quiz_Low, Resource_Low",3,0.2382
+"ActiveDays_Low, Engagement_Low, Quiz_Low, Resource_Low",4,0.2382
+"ActiveDays_High, Engagement_High, Resource_High",3,0.2376
+"ActiveDays_Low, Assignment_Missing",2,0.234
+"Engagement_Low, Forum_Low, Resource_Low",3,0.233
+"ActiveDays_Low, Forum_Low, Quiz_Low",3,0.2265
+"ActiveDays_Low, Engagement_Low, Forum_Low, Quiz_Low",4,0.2264
+"Forum_High, Result_Pass",2,0.2252
+"ActiveDays_Low, Assignment_Missing, Engagement_Low",3,0.2249
+"ActiveDays_Low, Forum_Low, Resource_Low",3,0.2247
+"ActiveDays_Low, Engagement_Low, Forum_Low, Resource_Low",4,0.2247
+"Assignment_Missing, Engagement_Low, Quiz_Low",3,0.2246
+"Assignment_Missing, Forum_Low",2,0.2233
+"Assignment_Missing, Resource_Low",2,0.2183
+"Resource_High, Result_Pass",2,0.2179
+Result_Fail,1,0.2164
+"ActiveDays_High, Engagement_High, Result_Pass",3,0.2136
+"Forum_High, Resource_High",2,0.2132
+"Assignment_Missing, Engagement_Low, Resource_Low",3,0.213
+"Engagement_Low, Forum_Low, Quiz_Low, Resource_Low",4,0.2117
+"Forum_Low, Quiz_Low, Resource_Low",3,0.2117
+"Assignment_Missing, Engagement_Low, Forum_Low",3,0.211
+"Engagement_High, Forum_High, Resource_High",3,0.211
+"ActiveDays_Low, Assignment_Missing, Quiz_Low",3,0.2093
+"ActiveDays_Low, Assignment_Missing, Engagement_Low, Quiz_Low",4,0.2083
+Quiz_Medium,1,0.2075
+"ActiveDays_Low, Forum_Low, Quiz_Low, Resource_Low",4,0.2068
+"ActiveDays_Low, Engagement_Low, Forum_Low, Quiz_Low, Resource_Low",5,0.2068
+"ActiveDays_Low, Assignment_Missing, Resource_Low",3,0.2058
+"ActiveDays_Low, Assignment_Missing, Engagement_Low, Resource_Low",4,0.205
+"Quiz_High, Resource_High",2,0.2022
+"ActiveDays_Low, Assignment_Missing, Forum_Low",3,0.201
+"ActiveDays_Medium, Engagement_Medium",2,0.2001
+"Assignment_Missing, Quiz_Low, Resource_Low",3,0.1999
+"Engagement_High, Quiz_High, Resource_High",3,0.1997
+"ActiveDays_Low, Assignment_Missing, Engagement_Low, Forum_Low",4,0.1993
+"Assignment_Missing, Engagement_Low, Quiz_Low, Resource_Low",4,0.1986
+"Assignment_Missing, Forum_Low, Quiz_Low",3,0.1984
+"Quiz_High, Result_Pass",2,0.1983
+"Assignment_Early, Forum_High",2,0.1969
+"Assignment_Missing, Engagement_Low, Forum_Low, Quiz_Low",4,0.1969
+"ActiveDays_High, Quiz_High",2,0.1948
+"Engagement_High, Resource_High, Result_Pass",3,0.1941
+"ActiveDays_High, Engagement_High, Quiz_High",3,0.1925
+"ActiveDays_Low, Assignment_Missing, Quiz_Low, Resource_Low",4,0.1924
+"ActiveDays_Low, Assignment_Missing, Engagement_Low, Quiz_Low, Resource_Low",5,0.1924
+"ActiveDays_High, Assignment_Early",2,0.1921
+"Assignment_Missing, Forum_Low, Resource_Low",3,0.1916
+"Assignment_Missing, Engagement_Low, Forum_Low, Resource_Low",4,0.1907
+"Assignment_Early, Engagement_High",2,0.1896
+"Engagement_High, Forum_High, Result_Pass",3,0.1885
+"Quiz_Low, Result_Withdrawn",2,0.1884
+"ActiveDays_Low, Assignment_Missing, Forum_Low, Resource_Low",4,0.1874
+"ActiveDays_Low, Assignment_Missing, Engagement_Low, Forum_Low, Resource_Low",5,0.1873
+"ActiveDays_Low, Assignment_Missing, Forum_Low, Quiz_Low",4,0.1871
+"ActiveDays_Low, Assignment_Missing, Engagement_Low, Forum_Low, Quiz_Low",5,0.1871
+"ActiveDays_High, Forum_High, Resource_High",3,0.1863
+"ActiveDays_High, Engagement_High, Forum_High, Resource_High",4,0.1863
+"Assignment_Missing, Result_Withdrawn",2,0.184
+"ActiveDays_Medium, Forum_Medium",2,0.1834
+"ActiveDays_High, Forum_High, Result_Pass",3,0.1831
+"ActiveDays_Medium, Resource_Medium",2,0.1831
+"Engagement_Low, Result_Withdrawn",2,0.1825
+"Assignment_Missing, Engagement_Low, Forum_Low, Quiz_Low, Resource_Low",5,0.1805
+"Assignment_Missing, Forum_Low, Quiz_Low, Resource_Low",4,0.1805
+"Engagement_Medium, Resource_Medium",2,0.1794
+"ActiveDays_Low, Assignment_Missing, Forum_Low, Quiz_Low, Resource_Low",5,0.1781
+"ActiveDays_Low, Assignment_Missing, Engagement_Low, Forum_Low, Quiz_Low, Resource_Low",6,0.1781
+"ActiveDays_Low, Result_Withdrawn",2,0.1779
+"Assignment_Early, Resource_High",2,0.1755
+"Resource_Low, Result_Withdrawn",2,0.1745
+"Resource_Medium, Result_Pass",2,0.1741
+"Forum_Low, Result_Withdrawn",2,0.1721
+"ActiveDays_High, Engagement_High, Forum_High, Result_Pass",4,0.1709
+"ActiveDays_High, Resource_High, Result_Pass",3,0.1709
+"ActiveDays_Low, Engagement_Low, Result_Withdrawn",3,0.1703
+"Forum_Medium, Result_Pass",2,0.1685
+"Quiz_Low, Result_Pass",2,0.1674
+"ActiveDays_High, Assignment_Early, Engagement_High",3,0.1668
+"ActiveDays_High, Engagement_High, Resource_High, Result_Pass",4,0.1668
+"Forum_High, Quiz_High",2,0.1658
+"Engagement_Low, Quiz_Low, Result_Withdrawn",3,0.1649
+"Engagement_High, Forum_High, Quiz_High",3,0.1646
+"Engagement_High, Quiz_High, Result_Pass",3,0.1646
+"Engagement_Low, Resource_Low, Result_Withdrawn",3,0.1635
+"Forum_Medium, Resource_Medium",2,0.1632
+"ActiveDays_Medium, Result_Pass",2,0.1627
+"Engagement_Medium, Forum_Medium",2,0.1625
+"Assignment_Early, Engagement_High, Forum_High",3,0.1615
+"ActiveDays_High, Quiz_High, Resource_High",3,0.1606
+"ActiveDays_High, Engagement_High, Quiz_High, Resource_High",4,0.1606
+"ActiveDays_High, Assignment_Early, Forum_High",3,0.1589
+"Engagement_Low, Forum_Low, Result_Withdrawn",3,0.1585
+"ActiveDays_Low, Resource_Low, Result_Withdrawn",3,0.1582
+"ActiveDays_Low, Quiz_Low, Result_Withdrawn",3,0.1568
+"ActiveDays_Low, Engagement_Low, Resource_Low, Result_Withdrawn",4,0.1567
+"Assignment_Missing, Engagement_Low, Result_Withdrawn",3,0.1564
+"ActiveDays_Low, Engagement_Low, Quiz_Low, Result_Withdrawn",4,0.1558
+"ActiveDays_Low, Assignment_Missing, Result_Withdrawn",3,0.1554
+"Assignment_Early, Engagement_High, Resource_High",3,0.154
+"ActiveDays_Low, Forum_Low, Result_Withdrawn",3,0.1531
+"Quiz_Low, Resource_Low, Result_Withdrawn",3,0.1526
+"ActiveDays_Low, Engagement_Low, Forum_Low, Result_Withdrawn",4,0.1522
+"ActiveDays_Low, Assignment_Missing, Engagement_Low, Result_Withdrawn",4,0.1516
+"Engagement_Low, Quiz_Low, Resource_Low, Result_Withdrawn",4,0.1504
+"Assignment_Missing, Quiz_Low, Result_Withdrawn",3,0.1501
+"Forum_Low, Resource_Low, Result_Withdrawn",3,0.1487
+"Assignment_Missing, Resource_Low, Result_Withdrawn",3,0.1482
+"Forum_High, Resource_High, Result_Pass",3,0.1481
+"ActiveDays_High, Assignment_Early, Engagement_High, Forum_High",4,0.1473
+"Engagement_High, Forum_High, Resource_High, Result_Pass",4,0.147
+"Forum_Low, Quiz_Low, Result_Withdrawn",3,0.1469
+"Engagement_Low, Forum_Low, Resource_Low, Result_Withdrawn",4,0.1465
+"Assignment_Missing, Engagement_Low, Resource_Low, Result_Withdrawn",4,0.1459
+"ActiveDays_Low, Quiz_Low, Resource_Low, Result_Withdrawn",4,0.1458
+"ActiveDays_Low, Engagement_Low, Quiz_Low, Resource_Low, Result_Withdrawn",5,0.1458
+"Engagement_Low, Forum_Low, Quiz_Low, Result_Withdrawn",4,0.1458
+"Assignment_Missing, Engagement_Low, Quiz_Low, Result_Withdrawn",4,0.1454
+"Assignment_Missing, Forum_Low, Result_Withdrawn",3,0.1452
+Assignment_Late,1,0.1446
+"ActiveDays_Low, Engagement_Low, Forum_Low, Resource_Low, Result_Withdrawn",5,0.1443
+"ActiveDays_Low, Forum_Low, Resource_Low, Result_Withdrawn",4,0.1443
+"Assignment_Early, Forum_High, Result_Pass",3,0.1436
+"ActiveDays_Low, Assignment_Missing, Resource_Low, Result_Withdrawn",4,0.1433
+"ActiveDays_Low, Assignment_Missing, Engagement_Low, Resource_Low, Result_Withdrawn",5,0.1431
+"ActiveDays_Low, Assignment_Missing, Quiz_Low, Result_Withdrawn",4,0.1424
+"Assignment_Missing, Engagement_Low, Forum_Low, Result_Withdrawn",4,0.1419
+"ActiveDays_Low, Assignment_Missing, Engagement_Low, Quiz_Low, Result_Withdrawn",5,0.1419
+"ActiveDays_High, Engagement_High, Forum_High, Quiz_High",4,0.1417
+"ActiveDays_High, Forum_High, Quiz_High",3,0.1417
+"ActiveDays_High, Assignment_Early, Result_Pass",3,0.1417
+"ActiveDays_Low, Engagement_Low, Forum_Low, Quiz_Low, Result_Withdrawn",5,0.1416
+"ActiveDays_Low, Forum_Low, Quiz_Low, Result_Withdrawn",4,0.1416
+"Engagement_High, Forum_High, Quiz_High, Resource_High",4,0.1406
+"Forum_High, Quiz_High, Resource_High",3,0.1406
+"ActiveDays_Low, Assignment_Missing, Forum_Low, Result_Withdrawn",4,0.1399
+"ActiveDays_Low, Assignment_Missing, Engagement_Low, Forum_Low, Result_Withdrawn",5,0.1395
+Assignment_OnTime,1,0.1389
+"Assignment_Missing, Quiz_Low, Resource_Low, Result_Withdrawn",4,0.1382
+"ActiveDays_Medium, Engagement_Medium, Resource_Medium",3,0.1381
+"Quiz_High, Resource_High, Result_Pass",3,0.1378
+"Assignment_Missing, Engagement_Low, Quiz_Low, Resource_Low, Result_Withdrawn",5,0.1378
+"ActiveDays_High, Assignment_Early, Resource_High",3,0.1376
+"Forum_Low, Quiz_Low, Resource_Low, Result_Withdrawn",4,0.1374
+"Engagement_Low, Forum_Low, Quiz_Low, Resource_Low, Result_Withdrawn",5,0.1374
+"Assignment_Early, Engagement_High, Result_Pass",3,0.137
+"ActiveDays_High, Quiz_High, Result_Pass",3,0.137
+"Assignment_Early, Quiz_Low",2,0.1366
+"Engagement_High, Quiz_High, Resource_High, Result_Pass",4,0.1365
+"ActiveDays_Low, Forum_Low, Quiz_Low, Resource_Low, Result_Withdrawn",5,0.1363
+"ActiveDays_Low, Engagement_Low, Forum_Low, Quiz_Low, Resource_Low, Result_Withdrawn",6,0.1363
+"Assignment_Missing, Forum_Low, Resource_Low, Result_Withdrawn",4,0.136
+"ActiveDays_Low, Assignment_Missing, Quiz_Low, Resource_Low, Result_Withdrawn",5,0.1359
+"ActiveDays_Low, Assignment_Missing, Engagement_Low, Quiz_Low, Resource_Low, Result_Withdrawn",6,0.1359
+"ActiveDays_High, Engagement_High, Quiz_High, Result_Pass",4,0.1358
+"Assignment_Missing, Engagement_Low, Forum_Low, Resource_Low, Result_Withdrawn",5,0.1357
+"ActiveDays_Low, Assignment_Missing, Engagement_Low, Forum_Low, Resource_Low, Result_Withdrawn",6,0.1347
+"ActiveDays_Low, Assignment_Missing, Forum_Low, Resource_Low, Result_Withdrawn",5,0.1347
+"Assignment_Missing, Forum_Low, Quiz_Low, Result_Withdrawn",4,0.1345
+"Assignment_Missing, Engagement_Low, Forum_Low, Quiz_Low, Result_Withdrawn",5,0.1343
+"ActiveDays_High, Assignment_Early, Engagement_High, Resource_High",4,0.1342
+"ActiveDays_High, Forum_High, Resource_High, Result_Pass",4,0.1339
+"ActiveDays_High, Engagement_High, Forum_High, Resource_High, Result_Pass",5,0.1339
+"Engagement_Medium, Result_Pass",2,0.1338
+"ActiveDays_Low, Assignment_Missing, Forum_Low, Quiz_Low, Result_Withdrawn",5,0.1328
+"ActiveDays_Low, Assignment_Missing, Engagement_Low, Forum_Low, Quiz_Low, Result_Withdrawn",6,0.1328
+"Quiz_Low, Resource_Medium",2,0.1317
+"Assignment_Missing, Forum_Low, Quiz_Low, Resource_Low, Result_Withdrawn",5,0.1302
+"Assignment_Missing, Engagement_Low, Forum_Low, Quiz_Low, Resource_Low, Result_Withdrawn",6,0.1302
+"ActiveDays_Low, Assignment_Missing, Forum_Low, Quiz_Low, Resource_Low, Result_Withdrawn",6,0.1297
+"ActiveDays_Low, Assignment_Missing, Engagement_Low, Forum_Low, Quiz_Low, Resource_Low, Result_Withdrawn",7,0.1297
+"Forum_Medium, Quiz_Low",2,0.1287
+"Assignment_Early, Forum_High, Resource_High",3,0.1286
+"Assignment_Early, Engagement_High, Forum_High, Resource_High",4,0.1276
+"ActiveDays_Medium, Engagement_Medium, Forum_Medium",3,0.1272
+"ActiveDays_High, Forum_High, Quiz_High, Resource_High",4,0.1256
+"ActiveDays_High, Engagement_High, Forum_High, Quiz_High, Resource_High",5,0.1256
+"ActiveDays_Medium, Quiz_Low",2,0.1256
+"Assignment_Early, Resource_High, Result_Pass",3,0.1248
+"ActiveDays_High, Assignment_Early, Engagement_High, Result_Pass",4,0.1237
+"Forum_Medium, Quiz_High",2,0.1234
+"Assignment_Early, Resource_Medium",2,0.1228
+"ActiveDays_Medium, Assignment_Early",2,0.1197
+"ActiveDays_High, Assignment_Early, Forum_High, Result_Pass",4,0.1195
+"Assignment_Early, Engagement_High, Forum_High, Result_Pass",4,0.119
+"Assignment_Early, Quiz_High",2,0.118
+"Engagement_Medium, Forum_Medium, Resource_Medium",3,0.1176
+"ActiveDays_High, Assignment_Early, Forum_High, Resource_High",4,0.1161
+"ActiveDays_High, Assignment_Early, Engagement_High, Forum_High, Resource_High",5,0.1161
+"Assignment_Early, Forum_Medium",2,0.116
+"Forum_High, Quiz_High, Result_Pass",3,0.1159
+"Engagement_High, Forum_High, Quiz_High, Result_Pass",4,0.1153
+"ActiveDays_High, Quiz_High, Resource_High, Result_Pass",4,0.1151
+"ActiveDays_High, Engagement_High, Quiz_High, Resource_High, Result_Pass",5,0.1151
+"ActiveDays_Medium, Quiz_High",2,0.113
+"Assignment_Early, Engagement_High, Resource_High, Result_Pass",4,0.1113
+"ActiveDays_High, Assignment_Early, Engagement_High, Forum_High, Result_Pass",5,0.1106
+"Assignment_Early, Engagement_High, Quiz_High",3,0.1103
+"ActiveDays_Medium, Forum_Medium, Resource_Medium",3,0.107
+"Quiz_Medium, Result_Pass",2,0.1064
+"Assignment_Late, Quiz_High",2,0.1062
+"Assignment_Early, Quiz_Medium",2,0.1059
+"Quiz_Medium, Resource_Medium",2,0.1053
+"Engagement_Medium, Quiz_Low",2,0.1046
+"Quiz_Low, Result_Fail",2,0.1043
+"ActiveDays_High, Forum_High, Quiz_High, Result_Pass",4,0.1033
+"ActiveDays_High, Engagement_High, Forum_High, Quiz_High, Result_Pass",5,0.1033
+"Assignment_Early, Engagement_Medium",2,0.1031
+"Assignment_Early, Quiz_High, Resource_High",3,0.1025
+"Forum_Medium, Resource_High",2,0.1025
+"ActiveDays_High, Assignment_Early, Resource_High, Result_Pass",4,0.1021
+"Assignment_Early, Engagement_High, Quiz_High, Resource_High",4,0.1017
+"Engagement_High, Forum_High, Quiz_High, Resource_High, Result_Pass",5,0.1005
+"Forum_High, Quiz_High, Resource_High, Result_Pass",4,0.1005
