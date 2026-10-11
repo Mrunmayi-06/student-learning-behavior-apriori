@@ -59,3 +59,21 @@ if not pngs:
     st.info("No graphs yet. Run `python main.py` first.")
 for p in pngs:
     st.image(str(p), caption=p.stem.replace("_", " "), width=550)
+cat >> app.py <<'EOF'
+
+st.divider()
+st.header("Threshold experiment (created by main.py)")
+_exp = an.RESULTS_DIR / "threshold_experiment.csv"
+if _exp.exists():
+    import pandas as pd
+    st.dataframe(pd.read_csv(_exp))
+else:
+    st.info("Run `python main.py` first.")
+
+st.header("Graphs (created by main.py)")
+_pngs = sorted(an.RESULTS_DIR.glob("*.png"))
+if not _pngs:
+    st.info("No graphs yet. Run `python main.py` first.")
+for _p in _pngs:
+    st.image(str(_p), caption=_p.stem.replace("_", " "), width=550)
+EOF
