@@ -52,3 +52,10 @@ if run:
         st.dataframe(rules)
 else:
     st.info("Choose settings in the sidebar and click **Run Apriori**.")
+st.divider()
+st.header("Saved graphs (created by main.py)")
+pngs = sorted(an.RESULTS_DIR.glob("*.png"))
+if not pngs:
+    st.info("No graphs yet. Run `python main.py` first.")
+for p in pngs:
+    st.image(str(p), caption=p.stem.replace("_", " "), width=550)
